@@ -1,0 +1,6 @@
+D:\C# Projects\Battle\Battle\bin\Debug\Battle.exe.config
+D:\C# Projects\Battle\Battle\bin\Debug\Battle.exe
+D:\C# Projects\Battle\Battle\bin\Debug\Battle.pdb
+D:\C# Projects\Battle\Battle\obj\Debug\Battle.csprojAssemblyReference.cache
+D:\C# Projects\Battle\Battle\obj\Debug\Battle.exe
+D:\C# Projects\Battle\Battle\obj\Debug\Battle.pdb
